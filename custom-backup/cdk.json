@@ -49,7 +49,7 @@
       "us.amazon.nova-micro-v1:0",
       "us.amazon.nova-lite-v1:0",
       "us.amazon.nova-pro-v1:0"
-    ],
+    ]
     "imageGenerationModelIds": [
       {
          "modelId": "stability.sd3-5-large-v1:0", 
