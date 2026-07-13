@@ -56,7 +56,12 @@
          "region": "us-west-2"
       }
     ],
-    "videoGenerationModelIds": ["amazon.nova-reel-v1:0"],
+    "videoGenerationModelIds": [
+      {
+         "modelId": "luma.ray-v2:0",
+         "region": "us-west-2"
+      }
+    ],
     "speechToSpeechModelIds": ["amazon.nova-sonic-v1:0"],
     "endpointNames": [],
     "agentEnabled": false,
